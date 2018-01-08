@@ -4,4 +4,4 @@ issac:
     English: Issac
 
 test:   
-  hello: ${issac.name.Chinese} 的英文名是 ${issac.name.English}
+  hello: ${issac.name.Chinese} 的英文名是 ${issac.name.English} dev label
