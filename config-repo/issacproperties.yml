@@ -3,4 +3,4 @@ issac:
     Chinese: 崔sir_default
     English: Issac
     
-  hello: ${issac.name.Chinese} 的英文名是  ${issac.name.English} dev label
+hello: ${issac.name.Chinese} 的英文名是  ${issac.name.English} dev label
