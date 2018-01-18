@@ -1,6 +1,0 @@
-issac:
-  name:
-    Chinese: 崔sir_test
-    English: Issac
-
-hello: 配置文件2[${issac.name.Chinese} 的英文名是 ${issac.name.English}]

@@ -1,6 +1,6 @@
 issac:
   name:
-    Chinese: 崔sir_test
+    Chinese: 崔sir
     English: Issac
 
-hello: ${issac.name.Chinese} 的英文名是 ${issac.name.English} dev label
+hello: 【gitHub-dve】-【test】：${issac.name.Chinese} 的英文名是 ${issac.name.English}
