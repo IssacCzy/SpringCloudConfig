@@ -1,7 +1,6 @@
 issac:
   name:
-    Chinese: 崔sir_test
+    Chinese: 崔sir
     English: Issac
 
-test:   
-  hello: ${issac.name.Chinese} 的英文名是 ${issac.name.English}
+hello: 【gitHub-master】-【test】：${issac.name.Chinese} 的英文名是 ${issac.name.English}
